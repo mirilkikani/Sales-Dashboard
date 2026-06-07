@@ -7,7 +7,7 @@
 
 ## 📊 Dashboard Preview
 
-![Flink Grocery Dashboard](Screenshot_2026-05-21_013606.png)
+![Flink Grocery Dashboard](https://github.com/mirilkikani/Sales-Dashboard/blob/main/Screenshot%202026-05-21%20013606.png)
 
 ---
 
@@ -105,17 +105,9 @@ flink-grocery-powerbi/
 3. If prompted, update the data source path to point to `FLINK_Grocery_Data.xlsx`.
 4. Explore the dashboard using the Quick Filters on the left panel.
 
-> **Requirement:** Power BI Desktop (free) — [Download here](https://powerbi.microsoft.com/desktop/)
 
 ---
 
-## 👤 Author
-
-**Miril Kikani**  
-MSc Big Data & Business Analytics — FOM Hochschule, Essen, Germany  
-[LinkedIn](https://linkedin.com/in/mirilkikani)
-
----
 
 ## 📄 License
 
