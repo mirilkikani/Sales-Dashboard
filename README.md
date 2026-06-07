@@ -101,7 +101,7 @@ flink-grocery-powerbi/
 ## 🚀 How to Use
 
 1. Clone or download this repository.
-2. Open `Flink_Grocery.pbix` in **Power BI Desktop**.
+2. Open `[Flink_Grocery.pbix](https://github.com/mirilkikani/Sales-Dashboard/blob/main/FLINK%20Grocery%20Data.xlsx)` in **Power BI Desktop**.
 3. If prompted, update the data source path to point to `FLINK_Grocery_Data.xlsx`.
 4. Explore the dashboard using the Quick Filters on the left panel.
 
