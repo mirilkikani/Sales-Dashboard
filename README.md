@@ -88,16 +88,6 @@ flink-grocery-powerbi/
 
 ---
 
-## 🛠️ Tools & Technologies
-
-| Tool | Usage |
-|---|---|
-| **Microsoft Power BI Desktop** | Dashboard development & DAX measures |
-| **Microsoft Excel** | Source data (.xlsx) |
-| **Power Query** | Data cleaning & transformation |
-
----
-
 ## 🚀 How to Use
 
 1. Clone or download this repository.
